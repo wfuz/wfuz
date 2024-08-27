@@ -4,9 +4,9 @@
   Age       :  15 
   Country   :  None 
   Languages :  Bash, C# 
-  Discord   :  addictpedo (891808221206032384) 
   Telegram  :  @ryodangang 
   Since     :  2017/2018 (December of 2017) 
   Knowledge :  Pentesting, Malware Developing, HTML/CSS and Defacing
   ```
-</p> <p align="center"> <img src="https://lanyard.cnrad.dev/api/891808221206032384/animated=true" alt="Lanyard"> </p> <p align="center"> <a href="https://tragic.events/15y" target="_blank">Click 🤓</a>
+</p> <p align="center"> <img src="https://lanyard.cnrad.dev/api/891808221206032384/animated=true" alt="Lanyard"> </p> 
+<p align="center"> <a href="https://tragic.events/esquelesquad" target="_blank">Click 🤓</a>
