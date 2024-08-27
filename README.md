@@ -1,19 +1,12 @@
-<p align="center">
-  <img src="https://i.pinimg.com/564x/c1/bc/bc/c1bcbcca9e7489263eae82cf203333bd.jpg" alt="mosca" width="400">
-</p>
-
+<p align="center"> <img src="https://i.pinimg.com/564x/04/7d/b0/047db066905ed4db242222c1fbd88ca0.jpg" alt="mosca" width="450"> </p> <p align="center"> 
   
-```python
-Age        :  15  
-Languages  :  Bash, C#  
-Discord    :  s9ac (891808221206032384)  
-Server     :  .gg/hV8td7ex  
-Telegram   :  @ryodangang
-```
-<p style="text-align: center;">
-<img src="https://lanyard.cnrad.dev/api/891808221206032384/animated=true" alt="Lanyard" style="display: block; margin: 0 auto;">
-</p>
-  
-<p align="center">
-  <a href="https://tragic.events/15y" target="_blank">Click</a> 🤓
-</p>
+  ```python
+  Age       :  15 
+  Country   :  None 
+  Languages :  Bash, C# 
+  Discord   :  addictpedo (891808221206032384) 
+  Telegram  :  @ryodangang 
+  Since     :  2017/2018 (December of 2017) 
+  Knowledge :  Pentesting, Malware Developing, HTML/CSS and Defacing
+  ```
+</p> <p align="center"> <img src="https://lanyard.cnrad.dev/api/891808221206032384/animated=true" alt="Lanyard"> </p> <p align="center"> <a href="https://tragic.events/15y" target="_blank">Click 🤓</a>
