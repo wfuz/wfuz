@@ -9,4 +9,4 @@
   Knowledge :  Pentesting, Malware Developing, HTML/CSS & Defacement
   ```
 </p> <p align="center"> <img src="https://lanyard.cnrad.dev/api/891808221206032384/animated=true" alt="Lanyard"> </p> 
-<p align="center"> <a href="https://tragic.events/esquelesquad" target="_blank">Click 🤓</a>
+<p align="center"> <a href="https://tragic.events/clonazepam" target="_blank">Click 🤓</a>
