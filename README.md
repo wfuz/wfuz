@@ -1,12 +1,11 @@
-<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFkZzB5cnJzZGxzenZiMnF1eGk3Y29xY3ZsYzNrMGlkdGhtdXR4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A1xl6f9ZoGM8/giphy.webp" alt="mosca" width="600"> </p> <p align="center"> 
-  
-  ```python
-  Age       :  15 
-  Country   :  None 
-  Main      :  Bash, C# 
-  Telegram  :  @ryodangang
-  Since     :  2017/2018  
-  Knowledge :  Pentesting, Malware Developing, HTML/CSS & Defacement
-  ```
-</p> <p align="center"> <img src="https://lanyard.cnrad.dev/api/891808221206032384/animated=true" alt="Lanyard"> </p> 
-<p align="center"> <a href="https://tragic.events/7val" target="_blank">Click 🤓</a>
+<div style="display: flex; align-items: center;">
+    <img src="https://cdn.discordapp.com/avatars/1129881721475702895/73934869383ea0e5b9b81fb52ad9c2e4.png?size=512" width="147" style="margin-right: 10px;"/>
+    <a href="https://guns.lol/qats">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&width=439&lines=b64+-+fraud.lol%2Fqats" alt="Typing SVG"/>
+    </a>
+</div>
+
+```
+dc   $  @bs64
+sv   $  @londres
+```
