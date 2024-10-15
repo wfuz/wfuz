@@ -1,11 +1,12 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://cdn.discordapp.com/avatars/1129881721475702895/73934869383ea0e5b9b81fb52ad9c2e4.png?size=512" width="147" style="margin-right: 10px;"/>
-    <a href="https://guns.lol/qats">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&width=439&lines=b64+-+fraud.lol%2Fqats" alt="Typing SVG"/>
+    <img src="https://i.pinimg.com/564x/d9/a4/71/d9a471a4c83df984f7ecef0748217e60.jpg" width="147" style="margin-right: 10px;"/>
+    <a href="https://guns.lol/pobe">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=fraud.lol%2Fpobe" alt="Typing SVG"/>
     </a>
 </div>
 
 ```
-dc   $  @bs64
+dc   $  @71cp
 sv   $  @sqli
+tg   $  @zoulenorg
 ```
