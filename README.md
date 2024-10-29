@@ -6,8 +6,8 @@
 </div>
 
 ```
-dc   $  @02cp
+dc   $  @8kif
 sv   $  @sqli
-or   $  @zoulenorg
+tg   $  @z0ulen
 tg   $  @esqueIesquad
 ```
