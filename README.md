@@ -1,13 +1,13 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://i.pinimg.com/564x/d9/a4/71/d9a471a4c83df984f7ecef0748217e60.jpg" width="147" style="margin-right: 10px;"/>
-    <a href="https://guns.lol/em0">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=fraud.lol%2Fem0" alt="Typing SVG"/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/e2319c22ebe41263c1d23fd49c467a7c.png" width="147" style="margin-right: 10px;"/>
+    <a href="https://guns.lol/ug3r">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=fraud.lol%2Fug3r" alt="Typing SVG"/>
     </a>
 </div>
 
 ```
-dc   $  @8kif
-sv   $  @sqli
-tg   $  @z0ulen
-tg   $  @esqueIesquad
+dc   $  @ug34
+tg   $  @necroharlemz
+ag   $  15
+cy   $  Argentina
 ```
