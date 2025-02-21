@@ -6,8 +6,6 @@
 </div>
 
 ```
-dc   $  @ug34
-tg   $  @necroharlemz
 ag   $  15
 cy   $  Argentina
 ```
